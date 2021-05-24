@@ -3,7 +3,7 @@ This is an implementation of Process Synchronization using a simple fun random n
 
 This is our submission for out sixth semester Unix Systems Programming mini project!
 
-# Random Number Game
+## Random Number Game
 Random Number Game: a 3-player game, with another process being the mediator/referee that keeps scores!
 * Each player is a process.
 * Each one of the player processes generates a random number turn after turn.
